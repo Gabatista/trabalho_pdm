@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="loading">Loading</string>
+    <string name="url_base">https://api.nasa.gov/</string>
+</resources>
